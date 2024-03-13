@@ -28,7 +28,7 @@ The "blockchain-web3-smart-contract-hacking" repository is a comprehensive resou
 
 ### Resources:
 
-- [OpenZeppelin's Smart Contract Security Best Practices](https://consensys.net/diligence/blog/2019/09/smart-contract-security-best-practices/)
+- [Blockchain Documentation](https://docs.soliditylang.org/)
 - [Web3.js Documentation](https://web3js.readthedocs.io/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/): A smart contract hacking game for hands-on learning.
 - [Blockchain Security](https://github.com/ethereumbook/ethereumbook): A comprehensive guide covering various aspects of blockchain security.
